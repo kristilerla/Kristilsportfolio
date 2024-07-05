@@ -1,3 +1,7 @@
+:root {
+    
+}
+
 body {
     background: #E1F4FE;
     font-family: Akkurat, sans-serif;
@@ -8,7 +12,18 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
     font-weight: 700;
 }
+h4 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
 .container {
     background-color: white;
+    border-radius: 7px;
+    margin: 0 auto;
  
+}
+img {
+    max-width: 100% ;
+
+   
 }
