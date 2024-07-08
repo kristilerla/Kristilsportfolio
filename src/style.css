@@ -1,5 +1,16 @@
 :root {
-    
+    --primary-color: #B61C67;
+}
+.btn-primary {
+    color: #B61C67;
+    background-color: #7cc;
+    border-color: #5bc2c2
+}
+
+.btn-primary:hover {
+    color: #212529;
+    background-color: #B61C67;
+    border-color: #8ad3d3
 }
 
 body {
@@ -11,6 +22,9 @@ h1 {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-weight: 700;
+}
+h3 {
+    font-style: italic;
 }
 h4 {
     font-family: 'Times New Roman', Times, serif;
