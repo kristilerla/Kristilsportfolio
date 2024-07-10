@@ -54,6 +54,10 @@ p {
     padding: 30px 30px;
  
 }
+.custom-img {
+    max-height: 500px;
+    object-fit: cover;
+}
 
 footer {
     text-align: center;
