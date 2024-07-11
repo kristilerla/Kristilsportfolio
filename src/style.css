@@ -4,26 +4,29 @@
 .btn-primary:hover {
     color: #B61C67;
     background-color: #7cc;
-    border-color: #5bc2c2
+    border-color: #5bc2c2;
 }
 
 .btn-primary {
     color: white;
     background-color: #B61C67;
-    border-color: #8ad3d3
+    border-color: #8ad3d3;
 }
 
 body {
     background: #E1F4FE;
-    font-family: Akkurat, sans-serif;
+    font-family: "Playfair Display", serif;
+   
 }
 .hero {
     
     text-align: center;
-    margin: 20px 50px;
+    margin: 50px 50px;
 }
 
-h1 {
+h1
+h2 
+ {
     
     font-family: 'Times New Roman', Times, serif;
     font-weight: 700;
@@ -38,6 +41,7 @@ h4 {
     font-weight: 700;
 }
 p {
+    font-family: Akkurat, sans-serif;
     line-height: 1.8;
     margin-bottom: 50px;
     opacity: 0.8;
