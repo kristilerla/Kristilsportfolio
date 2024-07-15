@@ -80,7 +80,7 @@ p {
 
     background-color: white;
     border-radius: 7px;
-    margin: 30px 50px;
+    margin: 30px 10px;
     padding: 30px 60px;
  
 }
@@ -100,7 +100,7 @@ footer {
 .project-description {
     padding: 40px 30px;
 }
-@media (max-width: 760px) {
+@media (max-width: 900px) {
     .project-description {
         padding: 0;
         text-align: center;
@@ -121,6 +121,7 @@ footer {
     .app-container {
         padding: 5px;
         text-align: center;
+        margin: 0 auto;
     }
     .project-img {
         display: none;
