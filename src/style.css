@@ -1,6 +1,6 @@
 :root {
-    --primary-color: #B61C67;
-    --branding-color: #6c63ff;
+    --primary-color: #e35183;
+    --branding-color: #9c4dcc;
     --primary-font: "Playfair Display",serif;
 }
 .btn-primary:hover {
@@ -11,7 +11,7 @@
 
 .btn-primary {
     color: white;
-    background-color: #B61C67;
+    background-color:var(--primary-color);
     border-color: #8ad3d3;
 }
 
